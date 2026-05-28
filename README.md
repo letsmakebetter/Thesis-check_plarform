@@ -1,3 +1,13 @@
+## My Contribution
+
+This was a group project for the Software Analysis and Design course.
+
+My contributions:
+- Worked on project analysis and design documentation
+- Helped with system requirements and use-case structure
+- Contributed to Python implementation
+- Tested project functionality
+- Participated in team planning and project organization
 # 🎓 Thesis Check Platform
 
 **Thesis Check Platform** is a Django-based web service that helps students uphold academic integrity by self-checking their thesis drafts before final submission.
